@@ -30,7 +30,7 @@
 1. **Install** — GitBags installs as a GitHub App on your repo
 2. **Track** — It tracks all contributions: PRs, commits, code reviews, and issues
 3. **Launch** — A token is launched on [bags.fm](https://bags.fm) for each repo
-4. **Earn** — 1% of every trade becomes contributor fees
+4. **Earn** — every trade becomes contributor fees
 5. **Claim** — Fees are distributed proportionally based on contribution weight
 6. **Cash out** — Contributors sign in with GitHub, connect a Solana wallet, and claim fees instantly on-chain
 
