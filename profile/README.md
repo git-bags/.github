@@ -3,7 +3,8 @@
 <a href="https://github.com/git-bags"><img src="https://img.shields.io/badge/GitHub-git--bags-181717?style=for-the-badge&logo=github" alt="GitHub"></a>&nbsp;
 <a href="https://x.com/gitbags"><img src="https://img.shields.io/badge/Follow-@gitbags-000000?style=for-the-badge&logo=x" alt="Twitter/X"></a>&nbsp;
 <a href="https://bags.fm"><img src="https://img.shields.io/badge/bags.fm-trade-00e639?style=for-the-badge" alt="bags.fm"></a>&nbsp;
-<a href="https://gitbags.fun"><img src="https://img.shields.io/badge/gitbags.fun-website-blue?style=for-the-badge" alt="gitbags.fun"></a>
+<a href="https://gitbags.fun"><img src="https://img.shields.io/badge/gitbags.fun-website-blue?style=for-the-badge" alt="gitbags.fun"></a>&nbsp;
+<a href="https://t.me/gitbags"><img src="https://img.shields.io/badge/Telegram-gitbags-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
 
 <br><br>
 
@@ -45,12 +46,13 @@ GitBags fixes this — every trade on your repo's token sends fees directly to t
 <div align="center">
 
 <a href="https://x.com/gitbags"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"></a>&nbsp;&nbsp;
-<a href="https://bags.fm"><img src="https://img.shields.io/badge/Trade_on_bags.fm-00e639?style=for-the-badge" alt="bags.fm"></a>
+<a href="https://bags.fm"><img src="https://img.shields.io/badge/Trade_on_bags.fm-00e639?style=for-the-badge" alt="bags.fm"></a>&nbsp;&nbsp;
+<a href="https://t.me/gitbags"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 <br><br>
 
 ---
 
-<sub><a href="https://github.com/git-bags">GitHub</a> · <a href="https://x.com/gitbags">Twitter/X</a> · <a href="https://bags.fm">bags.fm</a> · <a href="https://gitbags.fun">gitbags.fun</a></sub>
+<sub><a href="https://github.com/git-bags">GitHub</a> · <a href="https://x.com/gitbags">Twitter/X</a> · <a href="https://t.me/gitbags">Telegram</a> · <a href="https://bags.fm">bags.fm</a> · <a href="https://gitbags.fun">gitbags.fun</a></sub>
 
 </div>
