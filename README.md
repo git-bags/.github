@@ -1,12 +1,10 @@
 # Futarchy-Gated Funding Pools for Open-Source Infrastructure on Avalanche
 
-**A proposal for the Avalanche Foundation / ecosystem grants program**
-
 ---
 
 ## Problem
 
-Current OSS funding mechanisms (committee grants and quadratic voting) fail to price in **whether infrastructure will actually be used**. Futarchy — using prediction markets instead of voting — has a working implementation in MetaDAO on Solana, but nothing equivalent exists on Avalanche.
+Current OSS funding mechanisms (committee grants and quadratic voting) fail to price in **whether infrastructure will actually be used**. Futarchy — using prediction markets instead of voting on Avalanche.
 
 This proposal: a **futarchy-based funding primitive for OSS infrastructure grants** on Avalanche, with mechanism design that explicitly corrects for the self-fulfilling-prophecy problem.
 
@@ -35,8 +33,3 @@ This proposal: a **futarchy-based funding primitive for OSS infrastructure grant
 | 3. Pilot round | Weeks 9-14 | Live round with 3-5 real OSS projects, public post-mortem |
 | 4. Generalize | Weeks 15-20 | Reusable module for any Avalanche subnet/DAO |
 
-## Differentiation
-
-- First futarchy-based grant primitive on Avalanche
-- Spend-cap + TWAP-unlock structure directly addresses futarchy's reflexivity weakness
-- Builds on proven MetaDAO/Futard.io design, adapted for OSS usage metrics
