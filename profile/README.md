@@ -17,3 +17,5 @@ Futarchy-based grant funding primitive for OSS infrastructure projects. Uses con
 - Standing kill-switch lets contributors reclaim funds from underperforming projects
 
 Built on proven MetaDAO/Futard.io mechanics, adapted for Avalanche subnets.
+
+MVP: [Gitbags-dApp](https://github.com/git-bags/gitbags-dApp)
